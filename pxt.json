@@ -9,10 +9,7 @@
         "main.ts",
         "assets.json",
         "images.g.jres",
-        "images.g.ts",
-        "pxt.json",
-        "tilemap.g.jres",
-        "tilemap.g.ts"
+        "pxt.json"
     ],
     "testFiles": [
         "test.ts"
